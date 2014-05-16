@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'turbolinks'
 gem 'rails'
 
 group :development, :test do
